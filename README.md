@@ -1,5 +1,7 @@
 # GifsApp
 
+Pequeña aplicación realizada con Angular para afianzar conocimientos sobre rutas, componentes, inputs y outputs, servicios, subscribers etc.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
 ## Development server
